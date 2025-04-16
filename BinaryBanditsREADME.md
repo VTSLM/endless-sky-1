@@ -7,6 +7,7 @@ The Mission system manages the entire lifecycle of missions in Endless Sky, hand
 Mission Lifecycle Process  
 
 ##	Instantiation
+
 o	Missions are created from templates.  
 
 o	Destination, waypoints, and stopovers are dynamically selected using filters.
@@ -90,7 +91,9 @@ Ship Loading Workflow
 ####	Extracts:
 
 	Names and display labels
+
 	Visual elements (sprite, thumbnail)
+
 	Crew, cargo, fuel, position, and special flags
 
 ####	Hardpoints, Bays, and Explosions
